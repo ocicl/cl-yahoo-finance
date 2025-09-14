@@ -4,6 +4,6 @@ Common Lisp library for accessing Yahoo Finance
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/pnathan/cl-yahoo-finance.git |
-| commit  | f4ac676                                             |
+| commit  | 57d1df7                                             |
 | systems | cl-yahoo-finance                                    |
 |---------+-----------------------------------------------------|
