@@ -7,4 +7,4 @@ Common Lisp library for accessing Yahoo Finance
 | commit  | 57d1df7                                             |
 | systems | cl-yahoo-finance                                    |
 |---------+-----------------------------------------------------|
- 
+  
